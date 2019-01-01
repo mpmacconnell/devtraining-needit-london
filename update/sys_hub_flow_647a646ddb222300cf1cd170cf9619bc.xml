@@ -32,5 +32,4 @@
         <sys_updated_on>2018-12-22 21:56:28</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
-    <sys_variable_value action="delete_multiple" query="document_key=647a646ddb222300cf1cd170cf9619bc"/>
 </record_update>
